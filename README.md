@@ -13,4 +13,4 @@
 * файловая структура по методологии БЭМ - Nested;
 * медиазапросы для разработки интерфейса для разных устройств.
 
-* [Ссылка на GitHub Pages](https://github.com/Shtyrkhatskaya/russian-travel.git)
+* [Ссылка на GitHub Pages](https://shtyrkhatskaya.github.io/russian-travel/)
