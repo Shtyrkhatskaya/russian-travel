@@ -7,8 +7,10 @@
     align-self: end;
     justify-self: start;
     padding-bottom: 12px;
+    text-transform: uppercase;
+    display: block;
 }
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .place__URL-heading{
         width: 90%;
         margin: 0 auto;
