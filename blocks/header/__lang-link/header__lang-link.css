@@ -5,9 +5,13 @@
     font-weight: 400;
     line-height: 117%;
     padding-right: 18px;
+    transition: opacity .2s linear;
 }
 .header__lang-link:last-child{
     padding-right: 0;
+}
+.header__lang-link:hover{
+    opacity: 0.8;
 }
 @media screen and (max-width: 767px) {
     .header__lang-link{
@@ -15,3 +19,4 @@
         line-height: 111%;
     }
 }
+

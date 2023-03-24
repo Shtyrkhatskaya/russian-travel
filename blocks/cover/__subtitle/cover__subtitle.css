@@ -8,7 +8,7 @@
     margin: 0 auto;
 }
 @media screen and (max-width: 767px) {
-    .cover__title{
+    .cover__subtitle{
         font-size: 0.875rem;
         line-height: 114%;
     }
